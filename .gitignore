@@ -1,0 +1,12 @@
+
+.vs/
+*.tlog
+*.obj
+*.log
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.recipe
+*.*.recipe
+C++SFML/.vs/C++SFML/v17/Browse.VC.db
