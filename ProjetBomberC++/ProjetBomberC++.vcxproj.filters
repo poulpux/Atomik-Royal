@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Bombe.cpp">
+      <Filter>3C</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>3C</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>3C</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>3C\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="MenuInGame.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>3C\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Sons.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Zone.cpp">
+      <Filter>3C\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CardsDied.cpp">
+      <Filter>3C</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.cpp">
+      <Filter>Outils</Filter>
+    </ClCompile>
+    <ClCompile Include="gamepadx.cpp">
+      <Filter>Outils</Filter>
+    </ClCompile>
+    <ClCompile Include="myWindow.cpp">
+      <Filter>Outils</Filter>
+    </ClCompile>
+    <ClCompile Include="Client.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Host.cpp">
+      <Filter>Network</Filter>
+    </ClCompile>
+    <ClCompile Include="Bonus.cpp">
+      <Filter>3C</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniMap.cpp">
+      <Filter>3C\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Items.cpp">
+      <Filter>3C\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="HUD.cpp" />
+    <ClCompile Include="Observer.cpp" />
+    <ClCompile Include="Killfield.cpp" />
+    <ClCompile Include="Lobby.cpp" />
+    <ClCompile Include="Victory.cpp" />
+    <ClCompile Include="PlayerLaunch.cpp" />
+    <ClCompile Include="FeedBack.cpp" />
+    <ClCompile Include="Particles.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bombe.h">
+      <Filter>3C</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>3C</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>3C</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>3C\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="stateManager.h" />
+    <ClInclude Include="MenuInGame.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>3C\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Sons.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Zone.h">
+      <Filter>3C\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CardsDied.h">
+      <Filter>3C</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>Outils</Filter>
+    </ClInclude>
+    <ClInclude Include="gamepadx.hpp">
+      <Filter>Outils</Filter>
+    </ClInclude>
+    <ClInclude Include="myWindow.h">
+      <Filter>Outils</Filter>
+    </ClInclude>
+    <ClInclude Include="Host.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Client.h">
+      <Filter>Network</Filter>
+    </ClInclude>
+    <ClInclude Include="Bonus.h">
+      <Filter>3C</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniMap.h">
+      <Filter>3C\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>3C\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="HUD.h" />
+    <ClInclude Include="Observer.h" />
+    <ClInclude Include="Killfield.h" />
+    <ClInclude Include="Lobby.h" />
+    <ClInclude Include="Victory.h" />
+    <ClInclude Include="PlayerLaunch.h" />
+    <ClInclude Include="FeedBack.h" />
+    <ClInclude Include="Particles.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3C">
+      <UniqueIdentifier>{68cbf7fa-e6c3-4f7e-b990-f78fc4542cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{1aa4da38-ac6f-443a-a4dc-789e7f817e4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Outils">
+      <UniqueIdentifier>{be583540-5455-4699-9c01-dbb300006f1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Network">
+      <UniqueIdentifier>{ba9ba620-f77d-40bb-a9ea-a5c08da16c26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3C\Game">
+      <UniqueIdentifier>{cdcbf35b-324e-4dce-8db3-20451cc3bc69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
